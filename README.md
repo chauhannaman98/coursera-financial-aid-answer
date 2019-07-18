@@ -5,3 +5,7 @@ I am an engineering student and I have a keen interest in learning about new pro
 
 ## How will taking this course help you achieve your career goals?
 I am pursuing my graduation in computer science. Also, I have a keen interest in doing projects with python and other python related domains like machine learning, data analysis, etc. I want to complete the course due to my curiosity and also that I can put a good CV to a get applied to a job. This Course will boost my job prospects after graduation from my institute. It will help perform better in carrying out various programs in a computer language and give me an edge over my competitors. A verified certificate will attach credibility to the certificate I receive from this course. I plan to complete all assignments on or before time. Also I intend to participate in Discussion Forums, which I have found to supplement my learning immensely in the other online courses I have taken on Coursera. I also plan to grade assignments which are to peer reviewed which I believe will an invaluable learning opportunity.
+
+## Would you consider using a low-interest loan to pay for your courses?
+### If you answered no, please help us understand why.
+My father have taken up an education loan from bank to pay my college fees. In these circumstances, my father cannot afford to take another loan nor I as I don't earn anything right now.
